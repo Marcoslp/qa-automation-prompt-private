@@ -1,0 +1,16 @@
+{
+  "name": "qa-automation-prompt-private",
+  "version": "1.0.0",
+  "description": "This challenge is designed to evaluate candidate’s practical understanding of scripting, databases, and monitoring.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "sqlite3": "^5.1.7"
+  }
+}
